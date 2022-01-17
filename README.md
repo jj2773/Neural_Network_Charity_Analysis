@@ -19,7 +19,7 @@ A fictitious company Alphabet Soup has recieved funding from 34,000 organization
 
 ![alt text](https://github.com/jj2773/Neural_Network_Charity_Analysis/blob/main/readme_images/catfieldcounts.PNG)
 
-![alt text](https://github.com/jj2773/Neural_Network_Charity_Analysis/blob/main/readme_images/groupingtoreducecounts.PNG)
+![alt text](https://github.com/jj2773/Neural_Network_Charity_Analysis/blob/main/readme_images/groupingtoreducecounts.png)
 
 * Hot encoder was used to then take all categorical data and transform it to numerical data.
 
